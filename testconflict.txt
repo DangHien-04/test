@@ -1,1 +1,5 @@
+
 chi thuoc w1
+=======
+thuoc main va w1
+>>>>>>> main
